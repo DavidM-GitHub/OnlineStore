@@ -6,17 +6,7 @@
 <title>REST Example</title>
 <script>
 
-window.onload = function getEmail() {
-	//var email = session.getAttribute("user");
-	//var email='<%=Session("user")%>';
-	var email = localStorage.getItem("email");
-	console.log(email);
-	document.getElementById("username").innerHTML = email +" logged in"; 
-	// (EXTRA) TO CLEAR
-  // localStorage.removeItem("KEY");
-  //find in preferences - advanced - storage
-}
-  //	<link href="style.css" rel="stylesheet" type="text/css"> below script
+
 </script>
 	<link href="http://localhost:8080/spca4/styles.css" rel="stylesheet" type="text/css"/>
 

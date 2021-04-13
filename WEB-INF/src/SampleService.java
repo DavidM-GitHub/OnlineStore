@@ -399,8 +399,8 @@ String filterScript="<script>\r\n" +
 						"	<ul>\r\n" + 
 						"  <li><a href=\"home\">Home</a></li>\r\n" + 
 						"  <li><a href=\"browseProducts\">Browse Products</a></li>\r\n" + 
-						"  <li><a href=\"changeLocation\" >Change Location</a></li>\r\n" + 
-						"  <li><a href=\"home\">About</a></li>\r\n" + 
+						"  <li><a href=\"viewCustomers\" >View Customers</a></li>\r\n" + 
+						"  <li><a href=\"viewCart\">Cart</a></li>\r\n" + 
 						"    <li><a href=\"index\">Log Out</a></li>\r\n" + 
 						"	<li style=\"float:right;\"><a style=\"color:#FF4D00;\">spca4</a></li>\r\n" + 
 						"</ul></br></br>" + 
@@ -476,8 +476,8 @@ String filterScript="<script>\r\n" +
 						"	<ul>\r\n" + 
 						"  <li><a href=\"home\">Home</a></li>\r\n" + 
 						"  <li><a href=\"browseProducts\">Browse Products</a></li>\r\n" + 
-						"  <li><a href=\"changeLocation\" >View Customers</a></li>\r\n" + 
-						"  <li><a href=\"viewCart\">View Cart</a></li>\r\n" + 
+						"  <li><a href=\"viewCustomers\" >View Customers</a></li>\r\n" + 
+						"  <li><a href=\"viewCart\">Cart</a></li>\r\n" + 
 						"    <li><a href=\"index\">Log Out</a></li>\r\n" + 
 						"	<li style=\"float:right;\"><a style=\"color:#FF4D00;\">spca4</a></li>\r\n" + 
 						"</ul></br></br>" + 
@@ -565,8 +565,8 @@ String filterScript="<script>\r\n" +
 						"	<ul>\r\n" + 
 						"  <li><a href=\"home\">Home</a></li>\r\n" + 
 						"  <li><a href=\"browseProducts\">Browse Products</a></li>\r\n" + 
-						"  <li><a href=\"changeLocation\" >Change Location</a></li>\r\n" + 
-						"  <li><a href=\"home\">About</a></li>\r\n" + 
+						"  <li><a href=\"viewCustomers\" >View Customers</a></li>\r\n" + 
+						"  <li><a href=\"viewCart\">Cart</a></li>\r\n" + 
 						"    <li><a href=\"index\">Log Out</a></li>\r\n" + 
 						"	<li style=\"float:right;\"><a style=\"color:#FF4D00;\">spca4</a></li>\r\n" + 
 						"</ul></br></br>" + 
@@ -636,7 +636,7 @@ String filterScript="<script>\r\n" +
 		}
 
 			
-		f=new File("C:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\webapps\\spca4\\ordersuccess.jsp");
+		f=new File("C:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\webapps\\spca4\\checkoutsuccess.jsp");
 		
 		
 		try {
@@ -711,8 +711,8 @@ String filterScript="<script>\r\n" +
 				"	<ul>\r\n" + 
 				"  <li><a href=\"home\">Home</a></li>\r\n" + 
 				"  <li><a href=\"browseProducts\">Browse Products</a></li>\r\n" + 
-				"  <li><a href=\"changeLocation\" >Change Location</a></li>\r\n" + 
-				"  <li><a href=\"home\">About</a></li>\r\n" + 
+				"  <li><a href=\"viewCustomers\" >View Customers</a></li>\r\n" + 
+				"  <li><a href=\"viewCart\">Cart</a></li>\r\n" + 
 				"    <li><a href=\"index\">Log Out</a></li>\r\n" + 
 				"	<li style=\"float:right;\"><a style=\"color:#FF4D00;\">spca4</a></li>\r\n" + 
 				"</ul></br></br>" + 
@@ -762,8 +762,8 @@ String filterScript="<script>\r\n" +
 				"	<ul>\r\n" + 
 				"  <li><a href=\"home\">Home</a></li>\r\n" + 
 				"  <li><a href=\"browseProducts\">Browse Products</a></li>\r\n" + 
-				"  <li><a href=\"changeLocation\" >Change Location</a></li>\r\n" + 
-				"  <li><a href=\"home\">About</a></li>\r\n" + 
+				"  <li><a href=\"viewCustomers\" >View Customers</a></li>\r\n" + 
+				"  <li><a href=\"viewCart\">Cart</a></li>\r\n" + 
 				"    <li><a href=\"index\">Log Out</a></li>\r\n" + 
 				"	<li style=\"float:right;\"><a style=\"color:#FF4D00;\">spca4</a></li>\r\n" + 
 				"</ul></br></br>" + 
@@ -815,8 +815,8 @@ String filterScript="<script>\r\n" +
 				"	<ul>\r\n" + 
 				"  <li><a href=\"home\">Home</a></li>\r\n" + 
 				"  <li><a href=\"browseProducts\">Browse Products</a></li>\r\n" + 
-				"  <li><a href=\"changeLocation\" >Change Location</a></li>\r\n" + 
-				"  <li><a href=\"home\">About</a></li>\r\n" + 
+				"  <li><a href=\"viewCustomers\" >View Customers</a></li>\r\n" + 
+				"  <li><a href=\"viewCart\">Cart</a></li>\r\n" + 
 				"    <li><a href=\"index\">Log Out</a></li>\r\n" + 
 				"	<li style=\"float:right;\"><a style=\"color:#FF4D00;\">spca4</a></li>\r\n" + 
 				"</ul></br></br>" + 
@@ -867,8 +867,8 @@ String filterScript="<script>\r\n" +
 				"	<ul>\r\n" + 
 				"  <li><a href=\"home\">Home</a></li>\r\n" + 
 				"  <li><a href=\"browseProducts\">Browse Products</a></li>\r\n" + 
-				"  <li><a href=\"changeLocation\" >Change Location</a></li>\r\n" + 
-				"  <li><a href=\"home\">About</a></li>\r\n" + 
+				"  <li><a href=\"viewCustomers\" >View Customers</a></li>\r\n" + 
+				"  <li><a href=\"viewCart\">Cart</a></li>\r\n" + 
 				"    <li><a href=\"index\">Log Out</a></li>\r\n" + 
 				"	<li style=\"float:right;\"><a style=\"color:#FF4D00;\">spca4</a></li>\r\n" + 
 				"</ul></br></br>" + 
@@ -935,7 +935,7 @@ String filterScript="<script>\r\n" +
 		}
 		 
 		
-		if(customer.getName()!=null &&!productids.isEmpty()&&enoughStock) {	
+		if(!customer.isNull() &&!productids.isEmpty()&&enoughStock) {	
 		
 			for(Product product:productsOrdered) {
 			ProductOrder order=new ProductOrder(((Customer) customer),product,customer.getAddress(),product.getPrice(),"inCart");
@@ -984,8 +984,8 @@ String filterScript="<script>\r\n" +
 		int rate=Integer.parseInt(rating);
 		if((rate>=1&&rate<=5)&&!comment.equals("") &&product.getName()!=null) {	
 		
-			product.setComments(product.getComments()+"\r\n"+customer.getName()+": "+comment);
-			product.setRatings(product.getRatings()+"\r\n"+customer.getName()+": "+rating);
+			product.setComments(product.getComments()+"\n"+customer.getName()+": "+comment);
+			product.setRatings(product.getRatings()+"\n"+customer.getName()+": "+rating);
 			deldao.mergeProduct(product);
 			
 			f=new File("C:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\webapps\\spca4\\reviewsuccess.jsp");
@@ -1011,7 +1011,7 @@ String filterScript="<script>\r\n" +
 		PatternsDAO deldao=new PatternsDAO();
 		File f;
 		User customer=deldao.getCustomerByEmail(email);
-		if (customer.getEmail()!=null && customer.getPassword().equals(password)) {
+		if (!customer.isNull() && customer.getPassword().equals(password)) {
 			request.getSession(true);
 			HttpSession session = request.getSession();
 			session.setAttribute("user",customer.getEmail());
